@@ -174,9 +174,9 @@ footer {
 
 /*
 MEDIA QUERIES
-*/
-
-@media  screen  e ( min-width : 700px ){
+* /
+Detalhes
+@media   screen   and ( min-width : 768px ) {
     /*
     NAVEGAÇÃO
     */
