@@ -24,7 +24,7 @@ h1, h2, h3 {
 }
 
 /*
-NAVEGAÇÃO
+NAVEGAÃ‡ÃƒO
 */
 
 nav {
@@ -66,7 +66,7 @@ nav ul li a {
 
 
 /*
-CABEÇALHO
+CABEÃ‡ALHO
 */
 .col-100 {
     width: 100%;
@@ -111,7 +111,7 @@ SOBRE
 
 
 /*
-SERVIÇOS
+SERVIÃ‡OS
 */
 
 #servicos {
@@ -176,9 +176,9 @@ footer {
 MEDIA QUERIES
 */
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 700px) {
     /*
-    NAVEGAÇÃO
+    NAVEGAÃ‡ÃƒO
     */
     nav {
         flex-direction: row;
@@ -191,7 +191,7 @@ MEDIA QUERIES
     }
     
     /*
-    CABEÇALHO
+    CABEÃ‡ALHO
     */
     
     header {
@@ -212,7 +212,7 @@ MEDIA QUERIES
     }
     
     /*
-    SERVIÇOS
+    SERVIÃ‡OS
     */
     
     #servicos {
