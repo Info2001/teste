@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+/* conteiner */
+.tela  {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+}
+    @media (min-width: 500px) {
+        .tela {
+            max-width: 800px;
+            padding: 0;
+        }
+    }
